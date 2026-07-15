@@ -1,124 +1,218 @@
-<h1 align="center">Hi there! 👋 I'm Mohit Jadaun ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | ☕ Java DSA Explorer | 🎓 Final Year CSE Student | 📍 CGC Jhanjeri</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Building+Amazing+Web+Apps+%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Mohit%20Jadaun&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🎯 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+%2F+Spring+Boot+Backend+Engineer;Building+Scalable+Full+Stack+Applications;Ex-Associate+Software+Engineer+Intern+%40+Mphasis;Open+to+Software+Engineer+Roles+2026" alt="Typing SVG" />
 
-🌟 **Currently working on** a super cool **Placement Management System (PMS)** for our college! 🏫✨  
+<br/>
 
-💻 **Building awesome** MERN stack web applications that actually work in production! 🔥  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-jadaun)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadaunmohit0@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/mohit_jadaun)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohitjadaun2026)
 
-🏆 **Tech Mentor** @ **GSSoC '25** – Helping fellow developers grow! 🌱  
-
-🧠 **Exploring DSA** with Java - solving problems and having fun with algorithms! 🎮  
-
-☁️ **Deploying apps** on **Render**, **Vercel**, and **MongoDB Atlas** like a pro! 🚀  
-
-🎨 **Love creating** beautiful user interfaces that people actually enjoy using! 💫
-
----
-
-## 🛠️ My Tech Toolbox 
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-
-### 🎨 Frontend Magic
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Developer Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌈 Cool Projects I've Built
-
-### 🎓 [PMS-CGC-U (Placement Management System)](https://github.com/Mohitjadaun2026/PMS-CGC-U)
-🎯 **A complete job management system for our college!**  
-✨ Built with MERN Stack  
-🗄️ MongoDB Atlas for storing all student & job data  
-🌐 Deployed on Render + Vercel  
-👨‍💻 Admin can post jobs, students can apply  
-🔍 Smart filters by Branch, Course, Year  
-📱 Responsive design that works everywhere!
-
-### 💰 [invest.Io](https://github.com/Mohitjadaun2026/invest.Io)
-📈 **Investment simulation dashboard that's actually fun to use!**  
-🎨 Clean HTML, CSS, JavaScript design  
-📱 Works perfectly on mobile  
-🚀 Live at: https://invest-io-phi.vercel.app/  
-✨ Smooth animations and cool charts
-
-### 🎪 [WebDev Summit Website](https://github.com/Mohitjadaun2026/webdev)
-🌟 **Event landing page for coding enthusiasts!**  
-🎭 Cool animations and effects  
-🏢 Sponsor showcases  
-📅 Event schedules and speaker info  
-🌐 Hosted on GitHub Pages
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohitjadaun2026&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitjadaun2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitjadaun2026&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🤝 Let's Connect & Build Something Amazing!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-jadaun/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadaunmohit0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohitjadaun2026)
+<img src="https://komarev.com/ghpvc/?username=Mohitjadaun2026&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 🚀 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/master/gif3.gif"/>
+
+I'm a **final-year B.Tech CSE student** at Chandigarh Engineering College, Jhanjeri (Class of 2026), specializing in **Java Full Stack Development**.
+
+🔹 Recently completed an internship as an **Associate Software Engineer Intern at Mphasis**, building production backend systems with Spring Boot & Hibernate
+
+🔹 **Project Admin** at GirlScript Summer of Code 2025 — mentoring open-source contributors
+
+🔹 Ranked **Global 2769** in TCS CodeVita Season XII
+
+🔹 Passionate about **clean architecture**, **scalable REST APIs**, and **backend engineering**
+
+🔹 Currently sharpening **System Design** fundamentals
+
+```java
+public class Mohit extends SoftwareEngineer {
+    String role = "Java Full Stack Developer";
+    String[] focus = {"Spring Boot", "REST APIs", "Scalable Systems"};
+    boolean openToWork = true;
+
+    public static void main(String[] args) {
+        System.out.println("Let's build something great 🚀");
+    }
+}
+```
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  
-### 🎉 Fun Fact
-**I deploy apps faster than you can say "Hello World!" 🚀💨**  
-*Currently maintaining 99.9% uptime across all my projects! 📈✨*
 
-### 💫 Daily Motivation
-*"Code is like humor. When you have to explain it, it's bad." - Cory House* 😄
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" />
 
-<img src="https://komarev.com/ghpvc/?username=Mohitjadaun2026&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+### Backend
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql&theme=dark" />
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=oracle&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=dark" />
+
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,postman,git,github,vscode,maven&theme=dark" />
+
+### Core Concepts
+![OOP](https://img.shields.io/badge/OOP-58A6FF?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-58A6FF?style=flat-square)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-58A6FF?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC_Architecture-58A6FF?style=flat-square)
+![REST](https://img.shields.io/badge/REST_API_Design-58A6FF?style=flat-square)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+### Associate Software Engineer Intern
+**Mphasis** &nbsp;|&nbsp; `Jan 2026 – Apr 2026`
+
+- 🔧 Developed backend services using **Java, Spring Boot & Hibernate**
+- 🔗 Built and consumed **REST APIs** integrated with **MySQL**
+- ⚙️ Worked across the full Java full-stack development lifecycle
+- 🔐 Implemented secure, maintainable backend modules
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 🌈 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 🔐 TradeNest
+**Secure File Management System**
+
+`Java` `Spring Boot` `Angular` `MySQL`
+
+- Spring Security authentication
+- Role-based authorization
+- CSV upload & file tracking
+- REST API backend
+
+</td>
+<td width="33%">
+
+### 🎓 Placement Management System
+**Open Source Project**
+
+`React` `Node.js` `Express` `MongoDB`
+
+- Student & Admin dashboards
+- Interview hub & job postings
+- Eligibility filtering
+- Real-time application tracking
+
+</td>
+<td width="33%">
+
+### 🗓️ Leave Management System
+**Employee Workflow Platform**
+
+`Java` `Spring Boot` `React` `MySQL`
+
+- Manager approval workflow
+- Role-based access control
+- REST API integration
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+| 🏅 | Achievement |
+|:---:|---|
+| 🎖️ | **Project Admin** — GirlScript Summer of Code 2025 |
+| 🌐 | **Global Rank 2769** — TCS CodeVita Season XII |
+| 🎯 | **AIR 3978** — AINCAT 2025 |
+| ⚡ | **Rank 506** — CodeSprint Code Clash |
+
 </div>
+
+## 🌱 Open Source & Community
+
+<div align="center">
+
+![GSSoC](https://img.shields.io/badge/GirlScript_Summer_of_Code_2025-Project_Admin-FF4500?style=for-the-badge)
+![GFG](https://img.shields.io/badge/GeeksforGeeks-Student_Chapter-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![NSS](https://img.shields.io/badge/NSS-Volunteer-blue?style=for-the-badge)
+![iTechnocrats](https://img.shields.io/badge/iTechnocrats-CSE_Club-purple?style=for-the-badge)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohitjadaun2026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitjadaun2026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com?user=Mohitjadaun2026&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitjadaun2026&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mohitjadaun2026&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mohitjadaun2026/Mohitjadaun2026/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<sub>⚙️ Powered by a GitHub Action — generates automatically once the <a href="https://github.com/Platane/snk">snk workflow</a> is added to this repo</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:58A6FF&height=3&width=100%"/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-jadaun)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadaunmohit0@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/mohit_jadaun)
+
+<br/>
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=120&section=footer" width="100%"/>
